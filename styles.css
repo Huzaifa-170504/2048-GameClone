@@ -187,11 +187,7 @@ hr {
   position: relative;
   padding: 15px;
   cursor: default;
-  -webkit-touch-callout: none;
   -ms-touch-callout: none;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
   background: #bbada0;
@@ -641,7 +637,6 @@ hr {
   line-height: 42px;
   display: block;
   text-align: center;
-  float: right;
 }
 
 .game-explanation {
@@ -702,9 +697,6 @@ hr {
     cursor: default;
     -webkit-touch-callout: none;
     -ms-touch-callout: none;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
     -ms-touch-action: none;
     touch-action: none;
     background: #bbada0;
@@ -968,7 +960,7 @@ p {
 }
 
 .side-column {
-  background-image: url(/img/pattern/amam.png);
+  background-image: url(/img/background.png);
   background-position: 0px 0px;
   background-repeat: repeat;
   padding-top: 0.5rem;
@@ -1463,11 +1455,7 @@ footer {
     position: relative;
     padding: 12px;
     cursor: default;
-    -webkit-touch-callout: none;
     -ms-touch-callout: none;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
     -ms-touch-action: none;
     touch-action: none;
     background: #bbada0;
